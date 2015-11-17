@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Entities>
     <Things>
-        <Thing description="teset agaub" documentationContent="&lt;p&gt;&lt;br&gt;&lt;/p&gt;&#10;" effectiveThingPackage="ConfiguredThing" enabled="true" homeMashup="" identifier="" lastModifiedDate="2015-11-17T12:59:43.645-05:00" name="SampleApp.Thing" published="false" tags="Applications:SampleApp.Github;Version:1.0.0.1" thingTemplate="SampleApp.Template" valueStream="">
+        <Thing description="" documentationContent="&lt;p&gt;&lt;br&gt;&lt;/p&gt;&#10;" effectiveThingPackage="ConfiguredThing" enabled="true" homeMashup="" identifier="" lastModifiedDate="2015-11-17T13:02:47.187-05:00" name="SampleApp.Thing" published="false" tags="Applications:SampleApp.Github;Version:1.0.0.1" thingTemplate="SampleApp.Template" valueStream="">
             <Owner name="Administrator" type="User"/>
             <avatar/>
             <DesignTimePermissions>
@@ -40,6 +40,7 @@
                 <ConfigurationChange changeAction="MODIFY" changeReason="header : description : updated&#10;documentation : updated&#10;" timestamp="2015-11-17T12:31:44.228-05:00" user="Administrator"/>
                 <ConfigurationChange changeAction="MODIFY" changeReason="header : description : updated&#10;" timestamp="2015-11-17T12:58:20.949-05:00" user="Administrator"/>
                 <ConfigurationChange changeAction="MODIFY" changeReason="properties : AddProp : Added&#10;Add a new prop" timestamp="2015-11-17T12:59:43.645-05:00" user="Administrator"/>
+                <ConfigurationChange changeAction="MODIFY" changeReason="header : description : updated&#10;" timestamp="2015-11-17T13:02:47.187-05:00" user="Administrator"/>
             </ConfigurationChanges>
         </Thing>
     </Things>
