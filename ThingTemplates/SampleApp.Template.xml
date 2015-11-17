@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ThingTemplates>
+        <ThingTemplate baseThingTemplate="GenericThing" description="" documentationContent="&lt;p&gt;&lt;br&gt;&lt;/p&gt;&#10;" effectiveThingPackage="ConfiguredThing" homeMashup="" lastModifiedDate="2015-11-16T16:02:42.651-05:00" name="SampleApp.Template" tags="Applications:SampleApp.Github;Version:1.0.0.1" thingPackage="" valueStream="">
+            <Owner name="Administrator" type="User"/>
+            <avatar/>
+            <DesignTimePermissions>
+                <Create/>
+                <Read/>
+                <Update/>
+                <Delete/>
+                <Metadata/>
+            </DesignTimePermissions>
+            <RunTimePermissions/>
+            <VisibilityPermissions>
+                <Visibility/>
+            </VisibilityPermissions>
+            <ConfigurationTables/>
+            <PropertyBindings/>
+            <RemotePropertyBindings/>
+            <RemoteServiceBindings/>
+            <RemoteEventBindings/>
+            <AlertConfigurations/>
+            <ThingShape>
+                <PropertyDefinitions/>
+                <ServiceDefinitions/>
+                <EventDefinitions/>
+                <ServiceMappings/>
+                <ServiceImplementations/>
+                <Subscriptions/>
+            </ThingShape>
+            <ImplementedShapes>
+                <ImplementedShape name="SampleApp.ThingShape" type="ThingShape"/>
+            </ImplementedShapes>
+            <SharedConfigurationTables/>
+            <InstanceDesignTimePermissions>
+                <Create/>
+                <Read/>
+                <Update/>
+                <Delete/>
+                <Metadata/>
+            </InstanceDesignTimePermissions>
+            <InstanceRunTimePermissions/>
+            <InstanceVisibilityPermissions>
+                <Visibility/>
+            </InstanceVisibilityPermissions>
+            <ConfigurationChanges>
+                <ConfigurationChange changeAction="CREATE" changeReason="header : name : updated, baseThingTemplate : updated&#10;documentation : updated&#10;" timestamp="2015-11-16T16:01:44.499-05:00" user="Administrator"/>
+                <ConfigurationChange changeAction="MODIFY" changeReason="header : tags : updated&#10;documentation : updated&#10;" timestamp="2015-11-16T16:02:22.778-05:00" user="Administrator"/>
+                <ConfigurationChange changeAction="MODIFY" changeReason="header : implementedShapes : updated&#10;" timestamp="2015-11-16T16:02:42.651-05:00" user="Administrator"/>
+            </ConfigurationChanges>
+        </ThingTemplate>
+    </ThingTemplates>
+</Entities>
