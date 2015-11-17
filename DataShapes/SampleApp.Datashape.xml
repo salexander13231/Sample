@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <DataShapes>
+        <DataShape baseDataShape="" description="" documentationContent="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" homeMashup="" lastModifiedDate="2015-11-17T09:10:55.442-05:00" name="SampleApp.Datashape" tags="Applications:SampleApp.Github;Version:1.0.0.1">
+            <Owner name="Administrator" type="User"/>
+            <avatar/>
+            <DesignTimePermissions>
+                <Create/>
+                <Read/>
+                <Update/>
+                <Delete/>
+                <Metadata/>
+            </DesignTimePermissions>
+            <RunTimePermissions/>
+            <VisibilityPermissions>
+                <Visibility/>
+            </VisibilityPermissions>
+            <ConfigurationTables/>
+            <FieldDefinitions/>
+            <ConfigurationChanges>
+                <ConfigurationChange changeAction="CREATE" changeReason="header : name : updated, tags : updated&#10;documentation : updated&#10;" timestamp="2015-11-17T09:10:55.442-05:00" user="Administrator"/>
+            </ConfigurationChanges>
+        </DataShape>
+    </DataShapes>
+</Entities>
